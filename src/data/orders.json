@@ -1,0 +1,52 @@
+{
+  "orders": [
+    {
+      "id": "order_1",
+      "customerId": "user_1",
+      "customerName": "John Doe",
+      "address": "123 Main St, City, PIN 110001",
+      "deliveryType": "EXPRESS",
+      "paymentMethod": "CARD",
+      "amount": 299,
+      "status": "SHIPPED",
+      "driverId": "user_2",
+      "driverName": "Mike Driver",
+      "createdAt": "2024-12-01T10:00:00Z",
+      "updatedAt": "2024-12-02T14:30:00Z",
+      "proofImageUri": null,
+      "packageDetails": "Electronics - Mobile Phone"
+    },
+    {
+      "id": "order_2",
+      "customerId": "user_1",
+      "customerName": "John Doe",
+      "address": "123 Main St, City, PIN 110001",
+      "deliveryType": "STANDARD",
+      "paymentMethod": "COD",
+      "amount": 599,
+      "status": "PLACED",
+      "driverId": null,
+      "driverName": null,
+      "createdAt": "2024-12-03T09:15:00Z",
+      "updatedAt": "2024-12-03T09:15:00Z",
+      "proofImageUri": null,
+      "packageDetails": "Books - 3 items"
+    },
+    {
+      "id": "order_3",
+      "customerId": "user_4",
+      "customerName": "Jane Smith",
+      "address": "456 Park Ave, Town, PIN 110002",
+      "deliveryType": "SAME_DAY",
+      "paymentMethod": "UPI",
+      "amount": 899,
+      "status": "DELIVERED",
+      "driverId": "user_5",
+      "driverName": "Sarah Driver",
+      "createdAt": "2024-11-28T08:00:00Z",
+      "updatedAt": "2024-11-28T18:45:00Z",
+      "proofImageUri": "mock://proof_3.jpg",
+      "packageDetails": "Grocery Items"
+    }
+  ]
+}

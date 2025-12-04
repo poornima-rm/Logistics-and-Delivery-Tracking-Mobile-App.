@@ -1,0 +1,22 @@
+{
+  "drivers": [
+    {
+      "id": "user_2",
+      "name": "Mike Driver",
+      "email": "driver@test.com",
+      "phone": "9876543211",
+      "vehicleNumber": "DL01AB1234",
+      "assignedOrders": 1,
+      "completedOrders": 15
+    },
+    {
+      "id": "user_5",
+      "name": "Sarah Driver",
+      "email": "driver2@test.com",
+      "phone": "9876543214",
+      "vehicleNumber": "DL02CD5678",
+      "assignedOrders": 0,
+      "completedOrders": 23
+    }
+  ]
+}
