@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Getting Started
 
@@ -106,3 +107,6 @@ npx react-native run-android
 
 (or iOS)
 npx react-native run-ios
+=======
+# Logistics-and-Delivery-Tracking-Mobile-App.
+>>>>>>> e2db85cb19b7e0f668e999535e90defb99318163
